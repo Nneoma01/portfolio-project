@@ -1,0 +1,24 @@
+html{
+    padding: 0;
+    margin: 0;
+}
+body{
+    box-sizing: border-box;
+    margin: 0 auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100%;
+}
+.head-bar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+    cursor: pointer;
+}
+.head-info{
+    padding-top: 100px;
+    font: 50px; 
+}
